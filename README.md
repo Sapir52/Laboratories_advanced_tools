@@ -9,7 +9,9 @@ Save data into MongoDB database and import tables.
 
 ![GUI2](https://user-images.githubusercontent.com/63209732/123145525-96b28780-d465-11eb-9696-e9e9bcbb2f19.png)
 
-Lab 2: Running various algorithms in the R programming language.
+Lab 2: Video_Games
+Running various algorithms in the R programming language.
 
 # Results
 ![algorithms](https://user-images.githubusercontent.com/63209732/123146513-a54d6e80-d466-11eb-8fb1-e04d28687bb8.png)
+
