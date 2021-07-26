@@ -23,9 +23,9 @@ DataSet: The COCO dataset has been developed for large-scale object detection, c
 
 steps:
   1. Object detections in the images, using the detectron2 library.
-  2.1. Use Hough Line Transform to get sky lines, using the OpenCV library.
-  2.2. Cropping an image according to the average value of the sky lines.
-  3. Rotate images (correctly) with OpenCV.
+  2. Use Hough Line Transform to get sky lines, using the OpenCV library.
+  3. Cropping an image according to the average value of the sky lines.
+  4. Rotate images with OpenCV.
 
 #### Result
  ![image_result](https://user-images.githubusercontent.com/63209732/127027894-ebb0ac4f-382c-47f5-9226-06a57a037843.png)
