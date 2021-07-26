@@ -19,7 +19,7 @@ Running various algorithms in the R programming language.
 
 ## Lab 3: object_detection_and_cropping
 
-daraSet: The COCO dataset has been developed for large-scale object detection, captioning, and segmentation. The 2017 version of the dataset consists of images, bounding boxes, and their labels
+DataSet: The COCO dataset has been developed for large-scale object detection, captioning, and segmentation. The 2017 version of the dataset consists of images, bounding boxes, and their labels
 
 steps:
   1. Object detections in the images, using the detectron2 library.
