@@ -1,5 +1,6 @@
 # Laboratories in the Advanced Tools in Data Science course
 ## Lab 1: Scraping_MongoDB 
+
 Use different tools and directories to download data from the web.
 
 Save data into MongoDB database and import tables.
