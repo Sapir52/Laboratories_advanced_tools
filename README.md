@@ -11,8 +11,7 @@ Save data into MongoDB database and import tables.
 ![GUI2](https://user-images.githubusercontent.com/63209732/123145525-96b28780-d465-11eb-9696-e9e9bcbb2f19.png)
 
 ## Lab 2: Video_Games
-
-Running various algorithms in the R programming language.
+Running various regression algorithms in the R programming language.
 
 #### Results
 ![algorithms](https://user-images.githubusercontent.com/63209732/123146513-a54d6e80-d466-11eb-8fb1-e04d28687bb8.png)
@@ -29,3 +28,14 @@ steps:
 
 #### Result
  ![image_result](https://user-images.githubusercontent.com/63209732/127027894-ebb0ac4f-382c-47f5-9226-06a57a037843.png)
+ 
+## Lab 4: News_classification
+Run different classification algorithms to know if the news is fake or not.
+
+Implemented in the programming language R.
+
+#### Pipeline
+![pipe1](https://user-images.githubusercontent.com/63209732/131528523-12b25396-fb02-40cb-9070-807400ebe430.png)
+
+#### Results
+![res1](https://user-images.githubusercontent.com/63209732/131528529-c757ef84-8f4f-4acd-9129-a69ec8f9ece9.png)
