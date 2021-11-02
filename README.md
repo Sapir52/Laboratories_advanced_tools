@@ -39,3 +39,11 @@ Implemented in the programming language R.
 
 #### Results
 ![res1](https://user-images.githubusercontent.com/63209732/131528529-c757ef84-8f4f-4acd-9129-a69ec8f9ece9.png)
+
+## Lab 5: Data analytics and visualisation - Tableau
+
+![image](https://user-images.githubusercontent.com/63209732/139831926-e01c8bc6-e4a9-407d-92cd-e85aafd4e86c.png)
+
+![image](https://user-images.githubusercontent.com/63209732/139831957-2040873a-d7d1-4652-b677-bbe7e8a3e4ce.png)
+
+
