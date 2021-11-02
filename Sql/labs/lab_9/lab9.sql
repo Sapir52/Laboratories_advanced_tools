@@ -176,7 +176,7 @@ BEGIN
     DBMS_OUTPUT.put_line(TO_CHAR(SQL%ROWCOUNT)||' employee(s) updated');
 END;
 /
-rem task2 blocks
+---q15
 
 DECLARE
 	l_old_job emp.job%TYPE := '&1';
@@ -194,7 +194,7 @@ BEGIN
 	END IF;
 END;
 /
-rem task1 cursor
+---q16
 DECLARE
 	CURSOR dept_cur
 	IS
